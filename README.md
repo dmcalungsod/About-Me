@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there! I'm D. 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 My primary interest is building **clean, high-performance Python utilities**.
-- 💡 I'm passionate about improving the **user experience (UX)** of CLI tools using **Rich**.
-- 🤖 I also enjoy building **Discord bots** for community and automation.
-- 🤝 I'm open to collaborating on **data analysis, academic tooling, and data visualization**.
+### 🌱 Current Interests
+
+* Building intuitive CLI tools with enhanced **user experience (UX)**
+* Data analysis, visualization, and academic tooling
+* Performance optimization in **Python utilities**
+* Developing **Discord bots** for community and automation
 
 ### Languages and Tools
 
