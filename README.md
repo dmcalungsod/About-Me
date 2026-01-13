@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-I am a **Pragmatic Developer** who builds tools that work. I specialize in turning ideas into deployable software—from desktop apps like my **PDF Retriever** to AI-powered automation scripts that solve real-world administrative problems.
+I am a **Pragmatic Developer** who builds tools that work. I specialize in turning ideas into deployable software—from desktop apps like my **PDF Retriever** to AI-powered automation scripts that solve real-world problems.
 
 ### 🚀 Project Showcase
 
