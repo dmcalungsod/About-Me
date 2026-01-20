@@ -1,7 +1,7 @@
 ### Hi there! I'm D. 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dmcalungsod&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 I am a self-taught **Pragmatic Developer** who builds tools that work. I specialize in turning ideas into deployable software—from desktop apps like my **PDF Retriever** to AI-powered automation scripts that solve real-world problems.
@@ -10,10 +10,10 @@ I am a self-taught **Pragmatic Developer** who builds tools that work. I special
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[PDF-Retriever](https://github.com/Zosick/PDF-Retriever)** | **Desktop App** for automating academic paper downloads. Features a modern GUI, parallel downloading, and metadata fetching from **10+ sources** (Crossref, Unpaywall, etc.). | `Python` `CustomTkinter` `Requests` |
-| **[Certificate-Rename](https://github.com/Zosick/Certificate-Rename)** | **AI Automation** tool that uses **OCR** to read scanned certificates and automatically rename them based on the recipient's name ("Smart Detection"). | `PyTorch` `EasyOCR` `OpenCV` |
-| **[TRL-Calculator](https://github.com/Zosick/TRL-Calculator)** | **Compliance Tool** that automates Technology Readiness Level assessment based on **DOST-PCHRD Form 14** standards. | `Python` `CustomTkinter` `Matplotlib` |
-| **[File-Integrity-Checker](https://github.com/Zosick/File-Integrity-Checker)** | **Security Utility** for verifying file authenticity. Supports multiple hash algorithms (MD5, SHA256) with both CLI and interactive modes. | `Python` `Hashlib` `CLI` |
+| **[PDF-Retriever](https://github.com/dmcalungsod/PDF-Retriever)** | **Desktop App** for automating academic paper downloads. Features a modern GUI, parallel downloading, and metadata fetching from **10+ sources** (Crossref, Unpaywall, etc.). | `Python` `CustomTkinter` `Requests` |
+| **[Certificate-Rename](https://github.com/dmcalungsod/Certificate-Rename)** | **AI Automation** tool that uses **OCR** to read scanned certificates and automatically rename them based on the recipient's name ("Smart Detection"). | `PyTorch` `EasyOCR` `OpenCV` |
+| **[TRL-Calculator](https://github.com/dmcalungsod/TRL-Calculator)** | **Compliance Tool** that automates Technology Readiness Level assessment based on **DOST-PCHRD Form 14** standards. | `Python` `CustomTkinter` `Matplotlib` |
+| **[File-Integrity-Checker](https://github.com/dmcalungsod/File-Integrity-Checker)** | **Security Utility** for verifying file authenticity. Supports multiple hash algorithms (MD5, SHA256) with both CLI and interactive modes. | `Python` `Hashlib` `CLI` |
 
 ### 🌱 Current Interests
 
@@ -48,15 +48,15 @@ I am a self-taught **Pragmatic Developer** who builds tools that work. I special
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dmcalungsod&show_icons=true&locale=en&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmcalungsod&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zosick&no-frame=true&no-bg=true&margin-w=15&theme=dracula" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dmcalungsod&no-frame=true&no-bg=true&margin-w=15&theme=dracula" alt="GitHub Trophies" />
   </a>
 </p>
