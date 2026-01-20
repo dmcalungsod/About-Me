@@ -52,11 +52,11 @@ I am a self-taught **Pragmatic Developer** who builds tools that work. I special
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmcalungsod&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dmcalungsod&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dmcalungsod&no-frame=true&no-bg=true&margin-w=15&theme=dracula" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=dmcalungsod&no-frame=true&no-bg=true&margin-w=15&theme=dracula" alt="GitHub Trophies" />
   </a>
 </p>
